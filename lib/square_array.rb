@@ -8,5 +8,3 @@ def square_array(array)
   end
   new_array
 end
-
-square_array([1,2,3,4])
